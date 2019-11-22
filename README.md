@@ -19,5 +19,9 @@ https://drive.google.com/open?id=1ZH42mMxbYf28b1F9W4xhbOLsooqyHjqK
 
 The dashboard is interactive, however I cannot share the report outside the organization, so I created a pdf preview instead.
 
+- First table shows the statistics on employees
+- Second table shows the analysis on employees' performance
+- Third table shows the proposed KPIs based on insights
+
 ## Final Report
 https://drive.google.com/open?id=1sZdymGWOZezpp6I94NVS-d13nACTDZBh
