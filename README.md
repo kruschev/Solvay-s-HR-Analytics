@@ -16,6 +16,7 @@ The analysis consists of 3 major steps: Data cleaning(1), Statistical analysis(2
 
 ## Power BI Dashboard Report
 https://www.dropbox.com/s/zn8946wtd61c57z/dashboard.pdf?dl=0
+The dashboard is interactive, however I cannot share the report outside the organization, so I created a pdf preview instead.
 
 ## Final Report
 https://www.dropbox.com/s/9zmjxx8m3go8fl2/Final%20Report.pptx?dl=0
