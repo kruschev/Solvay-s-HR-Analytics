@@ -15,7 +15,7 @@ The analysis consists of 3 major steps: Data cleaning(1), Statistical analysis(2
 - Predictive Modelling: https://nbviewer.jupyter.org/github/kruschev/Solvay-s-HR-Analytics/blob/master/Predictive%20Modelling.ipynb
 
 ## Power BI Dashboard Report
-https://app.powerbi.com/reportEmbed?reportId=eebe4aff-a451-4cd5-9ff4-f74b1538a1f2&autoAuth=true&ctid=ef7a487a-77ca-410a-803d-e426b62a587f&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWF1c3RyYWxpYS1lYXN0LWEtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+https://www.dropbox.com/s/zn8946wtd61c57z/dashboard.pdf?dl=0
 
 ## Final Report
 https://www.dropbox.com/s/9zmjxx8m3go8fl2/Final%20Report.pptx?dl=0
